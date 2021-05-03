@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,**********DEPORTES***********
+
 #EXTINF:-1,DAZN 1 FHD DE
 http://85.203.33.88:80/FernandoCorreia/WLteri83/23280
 
@@ -180,7 +182,7 @@ http://85.203.33.88:80/FernandoCorreia/WLteri83/18820
 #EXTINF:-1,FC Bayern FHD DE
 http://85.203.33.88:80/FernandoCorreia/WLteri83/16767
 
-********************Latinos***************************
+#EXTINF:-1,**********LATINOS***********
 
 #EXTINF:-1,▬ Latin America [LAM] ▬
 http://85.203.33.88:80/FernandoCorreia/WLteri83/16545
@@ -430,7 +432,7 @@ http://85.203.33.88:80/FernandoCorreia/WLteri83/73731
 
 
 
-****************Adultos****************************************
+#EXTINF:-1,**********ADULTOS***********
 
 #EXTINF:-1,▬ For Adults [18+] ▬
 http://85.203.33.88:80/FernandoCorreia/WLteri83/16509
@@ -744,7 +746,7 @@ http://85.203.33.88:80/FernandoCorreia/WLteri83/38054
 #EXTINF:-1,Exxxotica HD (18+) RU
 http://85.203.33.88:80/FernandoCorreia/WLteri83/38055
 
-*************Movies**************************************
+#EXTINF:-1,**********PELILCULAS***********
 
 #EXTINF:-1,When Girls Play - Abella Danger, Naomi Swann [ES] [2020]
 http://85.203.33.88:80/movie/FernandoCorreia/WLteri83/54766.mp4
