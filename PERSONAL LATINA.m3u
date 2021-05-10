@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,**********DEPORTES***********
-
 #EXTINF:-1,DAZN 1 FHD group-title="Deportes" Dazn
 http://85.203.33.88:80/FernandoCorreia/WLteri83/23280
 
@@ -103,8 +101,6 @@ http://85.203.33.88:80/FernandoCorreia/WLteri83/18820
 
 #EXTINF:-1,FC Bayern FHD group-title="Deportes" FC Bayer
 http://85.203.33.88:80/FernandoCorreia/WLteri83/16767
-
-#EXTINF:-1,**********LATINOS***********
 
 #EXTINF:-1,▬ Latin America [LAM] ▬
 http://85.203.33.88:80/FernandoCorreia/WLteri83/16545
